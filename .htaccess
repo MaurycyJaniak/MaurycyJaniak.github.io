@@ -1,0 +1,6 @@
+
+# HTID:7613873: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:7613873:
+#Alternate default index page
+DirectoryIndex index.html index.php
